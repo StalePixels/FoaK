@@ -1,0 +1,4 @@
+How To Test FoaK Betas
+ * Use the "Import -> ROM" options to start a new font.
+ * You can edit the font name by clicking on it.
+ * You can edit the palette name by clicking on it (in the Palette Edit screen)

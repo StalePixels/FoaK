@@ -1,0 +1,3 @@
+ Editing a fontname does not copy old fontname into dialog first
+ *NO WARNINGS* on file overwrite, etc.
+ Typing in the text input widgets is "Janky"
