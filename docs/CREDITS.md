@@ -17,7 +17,9 @@ Bug Testing and Feedback
 
 Fonts
 =
-    SPECTRUM.CH8        
-    SPECTRUM.FOK        Colouring and Masking by D. Rimron-Soutter
-    Cinema.CH8          by Damien Guard
-    Cinema.FOK          Colouring and Masking by D .Rimron-Soutter
+    Cinema              Original by Damien Guard,
+                        https://damieng.com/typography/zx-origins/cinema
+    Cinema              Colouring and Masking by D .Rimron-Soutter
+
+    SPECTRUM            Original ZX ROM font, 
+                        Colouring and Masking by D. Rimron-Soutter
