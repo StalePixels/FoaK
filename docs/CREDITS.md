@@ -19,7 +19,7 @@ Fonts
 =
     Cinema              Original by Damien Guard,
                         https://damieng.com/typography/zx-origins/cinema
-    Cinema              Colouring and Masking by D .Rimron-Soutter
+                        Colouring and Masking by D .Rimron-Soutter
 
     SPECTRUM            Original ZX ROM font, 
                         Colouring and Masking by D. Rimron-Soutter
